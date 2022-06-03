@@ -1,4 +1,3 @@
 #!/bin/sh
-yum -y install httpd
-service httpd start
+touch 1 2
 
